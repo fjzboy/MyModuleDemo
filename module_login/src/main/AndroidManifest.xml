@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fjz.login">
+
+    <application>
+        <activity android:name=".LonginActivity" />
+    </application>
+
+</manifest>
+
